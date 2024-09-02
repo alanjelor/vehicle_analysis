@@ -13,7 +13,11 @@ Este proyecto es una aplicación web desarrollada con Streamlit que permite a lo
 - `streamlit/config.toml`: Archivo de configuración necesario para el despliegue en Render.
 - `requirements.txt`: Archivo que lista las dependencias del proyecto.
 
-## Cómo Ejecutar la Aplicación
+## Enlace a la Aplicación en Vivo
+
+Puedes acceder a la aplicación desplegada en Render a través de este enlace: [Mi Aplicación en Render](https://my-vehicle-analysis.onrender.com)
+
+## Cómo Ejecutar la Aplicación 
 
 Para ejecutar la aplicación localmente, sigue estos pasos:
 
